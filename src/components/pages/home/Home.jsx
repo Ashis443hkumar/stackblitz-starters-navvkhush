@@ -30,7 +30,7 @@ export default function Home() {
       {/* home About */}
       h2huiuioj
       h2
-      <p>Lakshyam’ is derived from the word ‘Lakshya’ in Hindi Language which means ‘Goal’ in English. <br/>
+      <p>Lakshyam’ is derived from the word ‘Lakshya’ in Hindi Language which means ‘Goal’ in English. <br/> </p>
       <section className="home_about">
         <Container className="">
         <Heading title="about Us" subtitle="" />
