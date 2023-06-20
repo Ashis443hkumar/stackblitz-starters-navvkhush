@@ -1,0 +1,22 @@
+
+.slide_video img{
+  width: 100%;
+  height: 300px;
+}
+.title{
+  text-align: center;
+  margin-left: 200px;
+}
+#noanim-tab-example{
+  margin-left: 140px;
+}
+Tabs{
+  margin-left: 300px;
+}
+.volunteer_image{
+  width: 80%;
+  height: 100px;
+  object-fit: cover;
+  text-align: center;
+  margin: auto;
+}
